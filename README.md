@@ -9,7 +9,7 @@
 
 ## 资源
 
-* 官方网站 [Wali](http://www.douwan.com)
+* 官方网站 [douwan](http://www.douwan.com)
 * 未开放下载地址
 
 ## 编译方法
