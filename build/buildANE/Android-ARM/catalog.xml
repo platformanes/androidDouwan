@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/douwan/ane/DouwanEvents" mod="1370672329812" signatureChecksum="1339115637" >
+        <def id="com.douwan.ane:DouwanEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_f79f81538a5eda632e4ce9dff87cb12c2c65804e48f98a349b85b48d0647d51c_flash_display_Sprite" mod="1370672439953" signatureChecksum="3662838491" >
+        <def id="_f79f81538a5eda632e4ce9dff87cb12c2c65804e48f98a349b85b48d0647d51c_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/douwan/ane/DouwanExtension" mod="1370672437421" signatureChecksum="2155464629" >
+        <def id="com.douwan.ane:DouwanExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="6944f249dad466a5bbbf5a7db1b2ff60c33bb59bde5380da756a54b2a296198f"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
